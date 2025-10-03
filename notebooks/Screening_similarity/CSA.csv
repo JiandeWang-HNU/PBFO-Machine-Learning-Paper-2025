@@ -1,0 +1,15 @@
+SMILES
+O=S(/N=C(C=C/1)/C=CC1=N/S(C)(=O)=O)(C)=O
+O=S(NC1=CC=C(NS(C)(=O)=O)C=C1)(C)=O
+CS(/N=C1\C(C=CC=C1)=N\S(=O)(C)=O)(=O)=O
+CS(NC1=C(C=CC=C1)NS(=O)(C)=O)(=O)=O
+CS(/N=C1C(NS(=O)(C)=O)=C/C(C=C/1)=N/S(=O)(C)=O)(=O)=O
+CS(NC1=C(NS(=O)(C)=O)C=C(C=C1)NS(=O)(C)=O)(=O)=O
+CS(NC(/C(C=C/1NS(=O)(C)=O)=N/S(=O)(C)=O)=CC1=N/S(=O)(C)=O)(=O)=O
+CS(NC1=C(NS(=O)(C)=O)C=C(C(NS(=O)(C)=O)=C1)NS(=O)(C)=O)(=O)=O
+O=S(/N=C1C=C(/C(C=C/1Cl)=N\S(C)(=O)=O)Cl)(C)=O
+O=S(NC1=CC(Cl)=C(C=C1Cl)NS(C)(=O)=O)(C)=O
+O=S(/N=C1C=C(/C(C=C/1C)=N\S(C)(=O)=O)C)(C)=O
+O=S(NC1=CC(C)=C(C=C1C)NS(C)(=O)=O)(C)=O
+CS(/N=C1/C(C=C(Cl)C(Cl)=C1)=N/S(=O)(C)=O)(=O)=O
+CS(NC1=C(NS(=O)(C)=O)C=C(C(Cl)=C1)Cl)(=O)=O
