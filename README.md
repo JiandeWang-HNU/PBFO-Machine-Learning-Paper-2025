@@ -1,7 +1,7 @@
 # Machine Learning Discovery of PBFO as Organic Cathode Material
 
 ## Project Description
-This repository hosts the code and data for the paper "AI-Driven Design of a Flexible Highly Conductive Additive-Free Polymer Cathode Material." It details a machine learning approach that identified isoindigo and isoxindigo derivatives, leading to the design of poly-benzodifurandione (PBFO) as a high-performance, organic cathode material for lithium-ion batteries.
+This repository hosts the code and data for the paper "Machine Learning-Guided Design of a Flexible Highly Conductive Additive-Free Polymer Cathode". It details a machine learning approach that identified isoindigo and isoxindigo derivatives, leading to the design of poly-benzodifurandione (PBFO) as a high-performance, organic cathode material for lithium-ion batteries.
 
 ## Project Structure
 00_PBFO-ML-paper/
@@ -25,4 +25,4 @@ This repository hosts the code and data for the paper "AI-Driven Design of a Fle
 - Python 3.9.19
 
 ## Citation
-If you use this code or data in your research, please cite our paper.
+If you use this code or data in your research, please cite our paper(https://doi.org/10.1002/anie.202525729).
