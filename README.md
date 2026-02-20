@@ -25,4 +25,4 @@ This repository hosts the code and data for the paper "Machine Learning-Guided D
 - Python 3.9.19
 
 ## Citation
-If you use this code or data in your research, please cite our paper(https://doi.org/10.1002/anie.202525729).
+If you use this code or data in your research, please cite our paper (https://doi.org/10.1002/anie.202525729).
